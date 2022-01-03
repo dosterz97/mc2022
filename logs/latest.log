@@ -1,0 +1,36 @@
+[00:14:46] [User Authenticator #47/INFO]: UUID of player MajikSix is 0629f5c6-0ff2-45b4-94da-bfad166fb4f9
+[00:14:46] [Server thread/INFO]: MajikSix[/127.0.0.1:52443] logged in with entity id 112424 at (151.59073887259296, 87.0, 132.88451301879113)
+[00:14:46] [Server thread/INFO]: MajikSix joined the game
+[00:25:03] [Server thread/INFO]: MajikSix lost connection: Disconnected
+[00:25:03] [Server thread/INFO]: MajikSix left the game
+[12:41:28] [User Authenticator #48/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[12:41:28] [Server thread/INFO]: xv15[/136.37.218.132:50187] logged in with entity id 114053 at (70.69771848165092, 64.0, 50.255037767547925)
+[12:41:28] [Server thread/INFO]: xv15 joined the game
+[13:29:08] [Server thread/INFO]: xv15 lost connection: Disconnected
+[13:29:08] [Server thread/INFO]: xv15 left the game
+[16:24:07] [User Authenticator #49/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[16:24:07] [Server thread/INFO]: xv15[/136.37.218.132:51018] logged in with entity id 124638 at (64.02751259392767, 70.0, 5.282298710369546)
+[16:24:07] [Server thread/INFO]: xv15 joined the game
+[16:26:14] [Server thread/INFO]: xv15 lost connection: Disconnected
+[16:26:14] [Server thread/INFO]: xv15 left the game
+[16:26:19] [User Authenticator #50/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[16:26:19] [Server thread/INFO]: xv15[/136.37.218.132:51030] logged in with entity id 125308 at (152.30000001192093, 40.72090979856195, 119.69999998807907)
+[16:26:19] [Server thread/INFO]: xv15 joined the game
+[16:26:21] [Server thread/INFO]: xv15 fell from a high place
+[16:26:22] [Server thread/INFO]: Skipping update from removed player 'adj['xv15'/125308, l='ServerLevel[world]', x=152.30, y=20.00, z=119.70, removed=KILLED]'
+[16:26:23] [Server thread/INFO]: Skipping update from removed player 'adj['xv15'/125308, l='ServerLevel[world]', x=152.30, y=20.00, z=119.70, removed=KILLED]'
+[16:30:04] [Server thread/INFO]: xv15 hit the ground too hard
+[16:30:05] [Server thread/INFO]: Skipping update from removed player 'adj['xv15'/125308, l='ServerLevel[world]', x=161.70, y=59.00, z=136.44, removed=KILLED]'
+[16:31:22] [Server thread/INFO]: xv15 lost connection: Disconnected
+[16:31:22] [Server thread/INFO]: xv15 left the game
+[17:56:22] [User Authenticator #51/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[17:57:51] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[17:56:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@49fac5e3[id=dbaf5cf1-adee-4f44-ad48-a4d3f969486a,name=xv15,properties={textures=[com.mojang.authlib.properties.Property@2f9c4ba4]},legacy=false] (/136.37.218.132:29943): Took too long to log in
+[20:04:21] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[20:04:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@49fac5e3[id=dbaf5cf1-adee-4f44-ad48-a4d3f969486a,name=xv15,properties={textures=[com.mojang.authlib.properties.Property@2f9c4ba4]},legacy=false] (/136.37.218.132:29943) lost connection: Disconnected
+[20:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7650773ms or 153015 ticks behind
+[20:04:22] [Server thread/WARN]: handleDisconnection() called twice
+[20:04:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c91a819[id=<null>,name=xv15,properties={},legacy=false] (/136.37.218.132:19181) lost connection: Disconnected
+[20:04:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@77c1264d[id=<null>,name=xv15,properties={},legacy=false] (/136.37.218.132:19084) lost connection: Disconnected
+[20:04:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@132ba773[id=<null>,name=xv15,properties={},legacy=false] (/136.37.218.132:12137) lost connection: Disconnected
+[20:04:22] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\15738\anythingyouwant\.\crash-reports\crash-2022-01-02_20.04.22-server.txt
