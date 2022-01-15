@@ -1,0 +1,541 @@
+[00:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
+[00:00:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:01:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[00:02:47] [Server thread/INFO]: <MajikSix> sleep
+[00:02:48] [Server thread/INFO]: <MajikSix> zzzzz
+[00:02:49] [Server thread/INFO]: <MajikSix> zzzzz
+[00:02:49] [Server thread/INFO]: W0BA lost connection: Disconnected
+[00:02:49] [Server thread/INFO]: W0BA left the game
+[00:02:50] [Server thread/INFO]: <MajikSix> zzzz
+[00:02:52] [Server thread/INFO]: iCanFlyJakeYT lost connection: Disconnected
+[00:02:52] [Server thread/INFO]: iCanFlyJakeYT left the game
+[00:02:58] [User Authenticator #225/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[00:02:58] [Server thread/INFO]: W0BA[/73.229.216.76:63095] logged in with entity id 999819 at (204.390004177156, 63.085764312744146, 7.052322350047898)
+[00:02:58] [Server thread/INFO]: W0BA joined the game
+[00:03:10] [User Authenticator #226/INFO]: UUID of player iCanFlyJakeYT is 09a4efe6-871c-43e5-8c1d-132c16303826
+[00:03:10] [Server thread/INFO]: iCanFlyJakeYT[/192.168.86.1:59935] logged in with entity id 1000094 at (278.5449647450314, 93.0, 120.22530877951434)
+[00:03:10] [Server thread/INFO]: iCanFlyJakeYT joined the game
+[00:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[00:04:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:04:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:05:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2859ms or 57 ticks behind
+[00:05:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:06:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:06:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:07:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:07:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:08:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:08:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:08:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:09:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
+[00:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3127ms or 62 ticks behind
+[00:09:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
+[00:10:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2957ms or 59 ticks behind
+[00:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
+[00:10:41] [Server thread/INFO]: xv15 lost connection: Disconnected
+[00:10:41] [Server thread/INFO]: xv15 left the game
+[00:11:35] [User Authenticator #227/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[00:11:35] [Server thread/INFO]: xv15[/192.168.86.1:13141] logged in with entity id 1005669 at (-131.31932178559214, 12.0, 41.71051690007653)
+[00:11:35] [Server thread/INFO]: xv15 joined the game
+[00:11:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:12:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[00:12:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[00:12:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:12:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
+[00:13:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
+[00:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
+[00:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[00:14:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[00:14:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:15:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:16:22] [Server thread/INFO]: W0BA has made the advancement [What a Deal!]
+[00:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[00:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[00:16:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:17:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[00:17:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[00:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:18:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[00:18:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:19:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[00:20:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[00:20:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[00:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3838ms or 76 ticks behind
+[00:20:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
+[00:21:18] [Server thread/INFO]: iCanFlyJakeYT lost connection: Disconnected
+[00:21:18] [Server thread/INFO]: iCanFlyJakeYT left the game
+[00:21:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[00:21:20] [Server thread/INFO]: W0BA lost connection: Disconnected
+[00:21:20] [Server thread/INFO]: W0BA left the game
+[00:21:22] [Server thread/INFO]: MajikSix lost connection: Disconnected
+[00:21:22] [Server thread/INFO]: MajikSix left the game
+[00:21:24] [User Authenticator #228/INFO]: UUID of player MajikSix is 0629f5c6-0ff2-45b4-94da-bfad166fb4f9
+[00:21:24] [Server thread/INFO]: MajikSix[/23.84.157.74:49961] logged in with entity id 1011204 at (-135.23397281444463, 12.0, 31.30000001192093)
+[00:21:24] [Server thread/INFO]: MajikSix joined the game
+[00:21:28] [Server thread/INFO]: <xv15> happy friday
+[00:21:29] [User Authenticator #229/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[00:21:29] [Server thread/INFO]: W0BA[/73.229.216.76:63347] logged in with entity id 1011379 at (53.22109845310079, 64.0, 36.70843116288927)
+[00:21:29] [Server thread/INFO]: W0BA joined the game
+[00:21:32] [User Authenticator #230/INFO]: UUID of player iCanFlyJakeYT is 09a4efe6-871c-43e5-8c1d-132c16303826
+[00:21:32] [Server thread/INFO]: iCanFlyJakeYT[/192.168.86.1:59983] logged in with entity id 1011419 at (284.4540395769859, -34.0, 156.5468447314682)
+[00:21:32] [Server thread/INFO]: iCanFlyJakeYT joined the game
+[00:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5393ms or 107 ticks behind
+[00:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:22:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[00:22:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:23:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[00:23:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:23:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[00:24:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:24:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:25:07] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.38071289795826857
+[00:25:07] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.47367686553984356
+[00:25:08] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.47424803475037436
+[00:25:08] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.2568466502007851
+[00:25:08] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.35092774910083335
+[00:25:08] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.35097249188285673
+[00:25:08] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.6688637394300159
+[00:25:40] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.4648667083063458
+[00:25:40] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.27647721526861346
+[00:25:40] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.37116935249200367
+[00:25:40] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.9647271513993587
+[00:25:40] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 1.558522857507441
+[00:25:44] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.2763893567660318
+[00:25:44] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.31143132886699476
+[00:25:55] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.2775549191071818
+[00:25:55] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.3633536119781624
+[00:25:55] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.2548440235243419
+[00:25:55] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.5
+[00:28:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:31:06] [Server thread/INFO]: iCanFlyJakeYT lost connection: Disconnected
+[00:31:06] [Server thread/INFO]: iCanFlyJakeYT left the game
+[01:05:23] [Server thread/INFO]: MajikSix lost connection: Disconnected
+[01:05:23] [Server thread/INFO]: MajikSix left the game
+[01:05:27] [User Authenticator #231/INFO]: UUID of player MajikSix is 0629f5c6-0ff2-45b4-94da-bfad166fb4f9
+[01:05:27] [Server thread/INFO]: MajikSix[/23.84.157.74:57546] logged in with entity id 1030603 at (-57.56439045426605, 84.0, 4.542803718962019)
+[01:05:27] [Server thread/INFO]: MajikSix joined the game
+[01:05:30] [Server thread/INFO]: MajikSix lost connection: Disconnected
+[01:05:30] [Server thread/INFO]: MajikSix left the game
+[01:05:31] [User Authenticator #232/INFO]: UUID of player MajikSix is 0629f5c6-0ff2-45b4-94da-bfad166fb4f9
+[01:05:31] [Server thread/INFO]: MajikSix[/23.84.157.74:57555] logged in with entity id 1030764 at (-57.56439045426605, 84.0, 4.542803718962019)
+[01:05:31] [Server thread/INFO]: MajikSix joined the game
+[01:08:25] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3415929158643607
+[01:08:25] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3108941211257559
+[01:08:25] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.32233339714093034
+[01:08:25] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.29595735179010774
+[01:08:25] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.28806206410154545
+[01:08:25] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.2500623758116589
+[01:08:25] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.28826520793272437
+[01:08:25] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.27564298112156393
+[01:08:26] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.2812716625849063
+[01:08:26] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.5
+[01:13:52] [Server thread/INFO]: <MajikSix> ./kill
+[01:16:40] [Server thread/INFO]: W0BA lost connection: Disconnected
+[01:16:40] [Server thread/INFO]: W0BA left the game
+[01:16:48] [User Authenticator #233/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[01:16:48] [Server thread/INFO]: W0BA[/73.229.216.76:60056] logged in with entity id 1035838 at (153.44899424722473, 95.0, 133.53448471527554)
+[01:16:48] [Server thread/INFO]: W0BA joined the game
+[01:21:48] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.4282705251176111
+[01:21:48] [Server thread/WARN]: Horse (vehicle of W0BA) moved wrongly! 0.99603189249369
+[01:26:09] [Server thread/INFO]: xv15 lost connection: Disconnected
+[01:26:09] [Server thread/INFO]: xv15 left the game
+[01:26:09] [Server thread/INFO]: MajikSix lost connection: Disconnected
+[01:26:09] [Server thread/INFO]: MajikSix left the game
+[01:26:52] [Server thread/INFO]: W0BA lost connection: Disconnected
+[01:26:52] [Server thread/INFO]: W0BA left the game
+[10:09:58] [User Authenticator #234/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[10:09:58] [Server thread/INFO]: xv15[/192.168.86.1:50089] logged in with entity id 1040379 at (19.564815517541447, 64.0, 58.0279415697039)
+[10:09:58] [Server thread/INFO]: xv15 joined the game
+[10:14:50] [Server thread/INFO]: xv15 lost connection: Disconnected
+[10:14:50] [Server thread/INFO]: xv15 left the game
+[13:11:59] [User Authenticator #235/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[13:11:59] [Server thread/INFO]: W0BA[/73.229.216.76:52693] logged in with entity id 1042857 at (273.69999998807907, 59.0, -49.579051601572395)
+[13:11:59] [Server thread/INFO]: W0BA joined the game
+[13:12:58] [Server thread/WARN]: W0BA was kicked for floating too long!
+[13:12:58] [Server thread/INFO]: W0BA lost connection: Flying is not enabled on this server
+[13:12:58] [Server thread/INFO]: W0BA left the game
+[13:12:58] [Server thread/WARN]: handleDisconnection() called twice
+[13:13:01] [User Authenticator #236/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[13:13:01] [Server thread/INFO]: W0BA[/73.229.216.76:52743] logged in with entity id 1043742 at (129.78690685169718, 72.0, -17.616288574130827)
+[13:13:01] [Server thread/INFO]: W0BA joined the game
+[13:13:06] [Server thread/WARN]: W0BA was kicked for floating too long!
+[13:13:06] [Server thread/INFO]: W0BA lost connection: Flying is not enabled on this server
+[13:13:06] [Server thread/INFO]: W0BA left the game
+[13:13:11] [User Authenticator #237/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[13:13:11] [Server thread/INFO]: W0BA[/73.229.216.76:52747] logged in with entity id 1044150 at (125.66477588932524, 81.0, -16.049092123644787)
+[13:13:11] [Server thread/INFO]: W0BA joined the game
+[13:44:20] [Server thread/INFO]: W0BA has made the advancement [Local Brewery]
+[13:48:10] [Server thread/INFO]: W0BA has reached the goal [Zombie Doctor]
+[14:02:23] [Server thread/INFO]: Villager bne['Nitwit'/1055814, l='ServerLevel[world]', x=235.62, y=63.00, z=12.01] died, message: 'Nitwit was slain by Drowned'
+[14:02:48] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.25201812309100546
+[14:02:48] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.33349124409724595
+[14:02:48] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.3448570964947635
+[14:02:58] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.34640356750085743
+[14:02:58] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.7278546458902042
+[14:03:13] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.2691296435639572
+[14:03:13] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.7584826883057758
+[14:03:13] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5092634682578989
+[14:03:13] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.51377470013108
+[14:03:13] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5106491636867077
+[14:03:13] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5078237991140213
+[14:03:13] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5055398063256575
+[14:03:13] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5039220812718668
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5499161832655943
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5741085790666887
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5362089628860076
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5159296339045341
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5050785692927491
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.49382271787450804
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.4722761236214126
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.44617528627773595
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.4322092486096949
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.43785555776594265
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.44755258175950985
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.45133768684235065
+[14:03:14] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.44954323057623924
+[14:03:25] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.2751850110321499
+[14:03:25] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.697616034870407
+[14:32:45] [Server thread/INFO]: W0BA lost connection: Disconnected
+[14:32:45] [Server thread/INFO]: W0BA left the game
+[15:35:01] [User Authenticator #238/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[15:35:01] [Server thread/INFO]: W0BA[/73.229.216.76:63936] logged in with entity id 1068474 at (269.5365097067607, 63.0, -46.90968303952985)
+[15:35:01] [Server thread/INFO]: W0BA joined the game
+[15:43:08] [Server thread/INFO]: W0BA lost connection: Disconnected
+[15:43:08] [Server thread/INFO]: W0BA left the game
+[15:43:46] [User Authenticator #239/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[15:43:46] [Server thread/INFO]: W0BA[/73.229.216.76:60933] logged in with entity id 1071863 at (273.69999998807907, 59.0, -50.88149092070826)
+[15:43:46] [Server thread/INFO]: W0BA joined the game
+[15:44:47] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.3815491683494088
+[15:44:48] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.9627001472121757
+[15:44:49] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5815097654264036
+[15:44:49] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5224854378342343
+[15:44:49] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 1.1165754207915484
+[15:45:59] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.27615316583396066
+[15:50:44] [Server thread/INFO]: W0BA has made the advancement [A Throwaway Joke]
+[15:52:58] [Server thread/INFO]: W0BA lost connection: Disconnected
+[15:52:58] [Server thread/INFO]: W0BA left the game
+[15:54:57] [User Authenticator #240/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[15:54:58] [Server thread/INFO]: W0BA[/73.229.216.76:61100] logged in with entity id 1076279 at (252.9643153128404, 63.0, 37.206230926318646)
+[15:54:58] [Server thread/INFO]: W0BA joined the game
+[16:03:42] [User Authenticator #241/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[16:03:42] [Server thread/INFO]: xv15[/192.168.86.1:50241] logged in with entity id 1079057 at (-65.81304052686845, 68.0, 38.99453517912146)
+[16:03:42] [Server thread/INFO]: xv15 joined the game
+[16:04:09] [Server thread/INFO]: <W0BA> suh
+[16:04:17] [Server thread/INFO]: <xv15> duh
+[16:07:07] [Server thread/INFO]: <xv15> brb[
+[16:07:09] [Server thread/INFO]: xv15 lost connection: Disconnected
+[16:07:09] [Server thread/INFO]: xv15 left the game
+[16:09:25] [User Authenticator #242/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[16:09:25] [Server thread/INFO]: xv15[/192.168.86.1:7176] logged in with entity id 1081393 at (-69.62257197108954, 68.0, 31.280714410944807)
+[16:09:25] [Server thread/INFO]: xv15 joined the game
+[16:13:20] [User Authenticator #243/INFO]: UUID of player Obnit is 69517cdc-1948-43bb-aced-e6bcdb934fcd
+[16:13:20] [Server thread/INFO]: Obnit[/4.7.52.38:59615] logged in with entity id 1083846 at (-5.5, 65.0, -2.5)
+[16:13:20] [Server thread/INFO]: Obnit joined the game
+[16:13:28] [Server thread/INFO]: <xv15> discord
+[16:13:30] [Server thread/INFO]: <xv15> ?>
+[16:13:47] [Server thread/INFO]: <Obnit> bruh you build the same fuckin house
+[16:13:53] [Server thread/INFO]: <xv15> kinda
+[16:15:14] [Server thread/INFO]: <xv15> i sleep
+[16:15:20] [Server thread/INFO]: Obnit has made the advancement [Sweet Dreams]
+[16:15:23] [Server thread/INFO]: W0BA lost connection: Disconnected
+[16:15:23] [Server thread/INFO]: W0BA left the game
+[16:15:27] [User Authenticator #244/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[16:15:27] [Server thread/INFO]: W0BA[/73.229.216.76:63258] logged in with entity id 1085092 at (336.0303702895095, 69.0, -68.88149552022522)
+[16:15:27] [Server thread/INFO]: W0BA joined the game
+[16:18:24] [Server thread/INFO]: Obnit was stung to death
+[16:18:38] [Server thread/INFO]: Obnit was slain by Iron Golem
+[16:18:39] [Server thread/INFO]: Skipping update from removed player 'adj['Obnit'/1083846, l='ServerLevel[world]', x=-68.26, y=68.00, z=34.13, removed=KILLED]'
+[16:18:43] [Server thread/INFO]: Obnit was slain by Iron Golem
+[16:18:44] [Server thread/INFO]: Skipping update from removed player 'adj['Obnit'/1083846, l='ServerLevel[world]', x=-66.28, y=68.00, z=35.39, removed=KILLED]'
+[16:19:53] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.3137591903209227
+[16:19:53] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.2858988131224578
+[16:19:54] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.45337265453088094
+[16:19:55] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4949576643380169
+[16:22:24] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.39185729069284037
+[16:28:35] [Server thread/INFO]: Obnit lost connection: Disconnected
+[16:28:35] [Server thread/INFO]: Obnit left the game
+[16:31:50] [Server thread/INFO]: W0BA lost connection: Disconnected
+[16:31:50] [Server thread/INFO]: W0BA left the game
+[16:31:55] [User Authenticator #245/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[16:31:55] [Server thread/INFO]: W0BA[/73.229.216.76:63526] logged in with entity id 1095499 at (-135.77837549557856, 12.0, 27.635167693085815)
+[16:31:55] [Server thread/INFO]: W0BA joined the game
+[16:34:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.3570881694547552
+[16:34:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.3856666563515958
+[16:34:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.41414994567760743
+[16:34:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.44261803335154326
+[16:34:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.47113680786767276
+[16:34:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.49969048698697804
+[16:34:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.52820531464873
+[16:35:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.3445377595445649
+[16:35:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.3730107027983607
+[16:35:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.40123985329311296
+[16:35:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4294116779069057
+[16:35:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4575983050561021
+[16:35:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4857891703291841
+[16:35:21] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.5139812490223648
+[16:39:29] [User Authenticator #246/INFO]: UUID of player no4sho is 059e5efb-60f3-4113-88fa-e35838f19251
+[16:39:30] [Server thread/INFO]: no4sho[/72.161.253.238:52816] logged in with entity id 1099352 at (-122.95766083822687, 86.0, -0.8715764576706497)
+[16:39:30] [Server thread/INFO]: no4sho joined the game
+[16:43:14] [Server thread/INFO]: W0BA lost connection: Disconnected
+[16:43:14] [Server thread/INFO]: W0BA left the game
+[16:43:19] [User Authenticator #247/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[16:43:19] [Server thread/INFO]: W0BA[/73.229.216.76:63689] logged in with entity id 1100815 at (-307.5489914864593, -17.0, 2.300000011920929)
+[16:43:19] [Server thread/INFO]: W0BA joined the game
+[16:46:13] [Server thread/INFO]: W0BA was shot by Skeleton
+[16:48:09] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.33411681781421976
+[16:48:10] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.9142226471632853
+[16:48:10] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.5099349225131959
+[16:48:10] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 1.104015601207152
+[16:48:16] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.2836174243632854
+[16:48:16] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.8747118238144935
+[16:56:22] [Server thread/INFO]: xv15 lost connection: Disconnected
+[16:56:22] [Server thread/INFO]: xv15 left the game
+[16:56:38] [User Authenticator #248/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[16:56:39] [Server thread/INFO]: xv15[/192.168.86.1:14883] logged in with entity id 1107308 at (-52.20884837006149, 87.0, 10.147768178052143)
+[16:56:39] [Server thread/INFO]: xv15 joined the game
+[16:56:45] [Server thread/INFO]: W0BA lost connection: Disconnected
+[16:56:45] [Server thread/INFO]: W0BA left the game
+[16:56:47] [Server thread/INFO]: xv15 lost connection: Disconnected
+[16:56:47] [Server thread/INFO]: xv15 left the game
+[16:56:52] [User Authenticator #249/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[16:56:52] [Server thread/INFO]: xv15[/192.168.86.1:14891] logged in with entity id 1107397 at (-52.750031333357185, 87.0, 10.152056615521596)
+[16:56:52] [Server thread/INFO]: xv15 joined the game
+[16:57:26] [User Authenticator #250/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[16:57:26] [Server thread/INFO]: W0BA[/73.229.216.76:65132] logged in with entity id 1107632 at (-269.7925330240797, 23.0, -6.688129034448866)
+[16:57:26] [Server thread/INFO]: W0BA joined the game
+[17:04:41] [Server thread/INFO]: xv15 was slain by Enderman
+[17:14:53] [Server thread/INFO]: xv15 lost connection: Disconnected
+[17:14:53] [Server thread/INFO]: xv15 left the game
+[17:19:30] [User Authenticator #251/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[17:19:31] [Server thread/INFO]: xv15[/192.168.86.1:25591] logged in with entity id 1118851 at (-109.49543021217177, 12.0, 24.23337703023602)
+[17:19:31] [Server thread/INFO]: xv15 joined the game
+[17:21:44] [Server thread/INFO]: W0BA was slain by Zombie
+[17:37:33] [Server thread/INFO]: Villager bne['Farmer'/1106604, l='ServerLevel[world]', x=335.30, y=69.00, z=-68.64] died, message: 'Farmer was slain by Zombie'
+[17:38:02] [Server thread/INFO]: no4sho lost connection: Disconnected
+[17:38:02] [Server thread/INFO]: no4sho left the game
+[17:41:08] [Server thread/INFO]: xv15 lost connection: Disconnected
+[17:41:08] [Server thread/INFO]: xv15 left the game
+[17:42:28] [User Authenticator #252/INFO]: UUID of player no4sho is 059e5efb-60f3-4113-88fa-e35838f19251
+[17:42:28] [Server thread/INFO]: no4sho[/72.161.253.238:53213] logged in with entity id 1129922 at (-122.67896232981802, 86.0, -0.4753217220666122)
+[17:42:28] [Server thread/INFO]: no4sho joined the game
+[17:43:32] [User Authenticator #253/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[17:43:33] [Server thread/INFO]: xv15[/192.168.86.1:25665] logged in with entity id 1130671 at (-66.01961413233725, 66.0, 46.91944402726805)
+[17:43:33] [Server thread/INFO]: xv15 joined the game
+[17:46:42] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.48301249387418466
+[17:46:42] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 1.0692815557137294
+[17:46:43] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.4101587878680846
+[17:46:44] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.8501884007094702
+[17:52:55] [Server thread/INFO]: no4sho lost connection: Disconnected
+[17:52:55] [Server thread/INFO]: no4sho left the game
+[17:53:03] [User Authenticator #254/INFO]: UUID of player no4sho is 059e5efb-60f3-4113-88fa-e35838f19251
+[17:53:03] [Server thread/INFO]: no4sho[/72.161.253.238:53303] logged in with entity id 1135356 at (20.19354694552342, -12.0, 34.18472474952805)
+[17:53:03] [Server thread/INFO]: no4sho joined the game
+[17:55:42] [Server thread/WARN]: Bean Burrito (vehicle of W0BA) moved wrongly! 0.29232108413501123
+[17:56:14] [Server thread/INFO]: xv15 lost connection: Disconnected
+[17:56:14] [Server thread/INFO]: xv15 left the game
+[17:56:16] [User Authenticator #255/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[17:56:16] [Server thread/INFO]: xv15[/192.168.86.1:1047] logged in with entity id 1137554 at (215.78569196971353, 66.8500000178814, 54.07970073862927)
+[17:56:16] [Server thread/INFO]: xv15 joined the game
+[17:56:35] [Server thread/INFO]: xv15 lost connection: Disconnected
+[17:56:35] [Server thread/INFO]: xv15 left the game
+[17:59:39] [User Authenticator #256/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[17:59:39] [Server thread/INFO]: xv15[/192.168.86.1:1060] logged in with entity id 1138849 at (166.29838239828985, 62.9375, 57.811900108986855)
+[17:59:39] [Server thread/INFO]: xv15 joined the game
+[18:01:48] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.40269812290790696
+[18:01:48] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.43122995907911843
+[18:01:48] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4597617912011671
+[18:01:49] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4882866047021892
+[18:07:46] [Server thread/INFO]: xv15 lost connection: Disconnected
+[18:07:46] [Server thread/INFO]: xv15 left the game
+[18:07:48] [Server thread/INFO]: no4sho lost connection: Disconnected
+[18:07:48] [Server thread/INFO]: no4sho left the game
+[18:07:54] [User Authenticator #257/INFO]: UUID of player no4sho is 059e5efb-60f3-4113-88fa-e35838f19251
+[18:07:54] [Server thread/INFO]: no4sho[/72.161.253.238:53390] logged in with entity id 1142422 at (-59.53928222162148, -4.0, 43.56935970057403)
+[18:07:54] [Server thread/INFO]: no4sho joined the game
+[18:08:28] [User Authenticator #258/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[18:08:28] [Server thread/INFO]: xv15[/192.168.86.1:1087] logged in with entity id 1142927 at (-46.70724838706429, 72.0, 5.394567948874037)
+[18:08:28] [Server thread/INFO]: xv15 joined the game
+[18:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[18:16:10] [Server thread/INFO]: xv15 lost connection: Disconnected
+[18:16:10] [Server thread/INFO]: xv15 left the game
+[18:19:35] [User Authenticator #259/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[18:19:35] [Server thread/INFO]: xv15[/192.168.86.1:1131] logged in with entity id 1148095 at (-57.32761008504661, 69.0, 37.456835794858016)
+[18:19:35] [Server thread/INFO]: xv15 joined the game
+[18:22:17] [Server thread/INFO]: no4sho lost connection: Disconnected
+[18:22:17] [Server thread/INFO]: no4sho left the game
+[18:22:18] [Server thread/INFO]: xv15 lost connection: Disconnected
+[18:22:18] [Server thread/INFO]: xv15 left the game
+[18:22:28] [User Authenticator #260/INFO]: UUID of player no4sho is 059e5efb-60f3-4113-88fa-e35838f19251
+[18:22:28] [Server thread/INFO]: no4sho[/72.161.253.238:53488] logged in with entity id 1149606 at (36.98471774080112, 6.0, -58.00138831638611)
+[18:22:28] [Server thread/INFO]: no4sho joined the game
+[18:22:37] [User Authenticator #261/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[18:22:38] [Server thread/INFO]: xv15[/192.168.86.1:1140] logged in with entity id 1149974 at (-85.49666062898893, 12.0, 33.16098047809621)
+[18:22:38] [Server thread/INFO]: xv15 joined the game
+[18:28:17] [User Authenticator #262/INFO]: UUID of player MajikSix is 0629f5c6-0ff2-45b4-94da-bfad166fb4f9
+[18:28:17] [Server thread/INFO]: MajikSix[/23.84.157.74:54500] logged in with entity id 1152480 at (26.87108942925014, 64.7875000178814, 36.97167911037579)
+[18:28:17] [Server thread/INFO]: MajikSix joined the game
+[18:31:36] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.4119742926906582
+[18:31:36] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.40546361583368196
+[18:31:36] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3904151719630704
+[18:31:36] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3749517678886889
+[18:31:37] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.38116507124192367
+[18:31:37] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.36900122357813814
+[18:31:37] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3591826630725876
+[18:31:37] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3488377771087272
+[18:31:37] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3357376939526091
+[18:31:37] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3214649956279345
+[18:31:37] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3073099809912634
+[18:31:37] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.293258211152704
+[18:31:37] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.2930299947100252
+[18:31:37] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.27886106332488225
+[18:31:38] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.264696199895198
+[18:31:38] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.25053250116458514
+[18:31:39] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.4742291773786178
+[18:31:39] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.46296149547396226
+[18:31:39] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.4520704287708952
+[18:31:39] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.4413854008987812
+[18:31:39] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.44012594930316595
+[18:31:39] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.42666112729439476
+[18:31:39] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.41335128490591444
+[18:31:39] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.4009148177969024
+[18:31:40] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3904278751370214
+[18:31:40] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.38005910103264284
+[18:31:40] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3698370792954364
+[18:31:40] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.35956856175008056
+[18:31:40] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3492867319586139
+[18:31:40] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3390010907289991
+[18:31:40] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3287143582439711
+[18:31:40] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3184273133208677
+[18:31:40] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.30814017894340395
+[18:31:40] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.2978530189541999
+[18:31:41] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.28756585163209536
+[18:31:41] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.27727868221049334
+[18:31:42] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.4178759136128889
+[18:31:42] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.41358178508805565
+[18:31:42] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.4047046295195855
+[18:31:42] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3946067420525452
+[18:31:42] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.38417093682873826
+[18:31:42] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.37363838214461964
+[18:31:42] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.36307812705740616
+[18:31:42] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.35250994104914923
+[18:31:43] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.34193948433355104
+[18:31:43] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3314761764019778
+[18:31:43] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.3210366242967808
+[18:31:43] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.31083156360961084
+[18:31:43] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.300537663587626
+[18:31:43] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.29022628527850713
+[18:31:43] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.27991687190926484
+[18:31:43] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.2696070367499317
+[18:31:43] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.25929697589913303
+[18:31:43] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.2799143833339315
+[18:31:43] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.26960405562554257
+[18:31:44] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.2592937329896827
+[18:31:45] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.42337403655942296
+[18:31:45] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.896662801706924
+[18:31:45] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 1.306021905624931
+[18:31:47] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.42501615875724497
+[18:31:47] [Server thread/WARN]: Horse (vehicle of MajikSix) moved wrongly! 0.5
+[18:33:40] [Server thread/INFO]: <xv15> zzzzzzzzzz
+[18:33:42] [Server thread/INFO]: MajikSix lost connection: Disconnected
+[18:33:42] [Server thread/INFO]: MajikSix left the game
+[18:33:44] [Server thread/INFO]: no4sho lost connection: Disconnected
+[18:33:44] [Server thread/INFO]: no4sho left the game
+[18:33:50] [Server thread/INFO]: W0BA lost connection: Disconnected
+[18:33:50] [Server thread/INFO]: W0BA left the game
+[18:33:59] [User Authenticator #263/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[18:33:59] [Server thread/INFO]: W0BA[/73.229.216.76:63138] logged in with entity id 1155055 at (310.9053594886995, 63.0, -29.877499631993356)
+[18:33:59] [Server thread/INFO]: W0BA joined the game
+[18:33:59] [User Authenticator #264/INFO]: UUID of player MajikSix is 0629f5c6-0ff2-45b4-94da-bfad166fb4f9
+[18:33:59] [Server thread/INFO]: MajikSix[/23.84.157.74:54539] logged in with entity id 1155112 at (113.64988909404055, 67.0, 85.66504724788776)
+[18:33:59] [Server thread/INFO]: MajikSix joined the game
+[18:34:07] [User Authenticator #265/INFO]: UUID of player no4sho is 059e5efb-60f3-4113-88fa-e35838f19251
+[18:34:07] [Server thread/INFO]: no4sho[/72.161.253.238:53556] logged in with entity id 1155317 at (-67.42243220101648, 3.0, -47.14363851953743)
+[18:34:07] [Server thread/INFO]: no4sho joined the game
+[18:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18:44:45] [Server thread/INFO]: xv15 lost connection: Disconnected
+[18:44:45] [Server thread/INFO]: xv15 left the game
+[18:44:45] [Server thread/INFO]: W0BA lost connection: Disconnected
+[18:44:45] [Server thread/INFO]: W0BA left the game
+[18:44:48] [Server thread/INFO]: no4sho lost connection: Disconnected
+[18:44:48] [Server thread/INFO]: no4sho left the game
+[18:44:53] [User Authenticator #266/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[18:44:53] [Server thread/INFO]: W0BA[/73.229.216.76:63387] logged in with entity id 1160753 at (294.42340462059326, 63.0, -40.875851871014724)
+[18:44:53] [Server thread/INFO]: W0BA joined the game
+[18:44:56] [User Authenticator #267/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[18:44:56] [Server thread/INFO]: xv15[/192.168.86.1:1204] logged in with entity id 1160844 at (14.69455804443857, 64.0, 39.24422222649977)
+[18:44:56] [Server thread/INFO]: xv15 joined the game
+[18:45:38] [User Authenticator #268/INFO]: UUID of player no4sho is 059e5efb-60f3-4113-88fa-e35838f19251
+[18:45:38] [Server thread/INFO]: no4sho[/72.161.253.238:53628] logged in with entity id 1161254 at (-217.5273424939086, -48.0, 29.19821259876223)
+[18:45:38] [Server thread/INFO]: no4sho joined the game
+[18:47:01] [Server thread/INFO]: W0BA lost connection: Disconnected
+[18:47:01] [Server thread/INFO]: W0BA left the game
+[18:48:09] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.27883382229744313
+[18:49:07] [User Authenticator #269/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[18:49:08] [Server thread/INFO]: W0BA[/73.229.216.76:63557] logged in with entity id 1163343 at (304.7742412680808, 65.0, -30.23258164671508)
+[18:49:08] [Server thread/INFO]: W0BA joined the game
+[18:49:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:51:27] [Server thread/INFO]: MajikSix has made the advancement [Best Friends Forever]
+[18:55:31] [Server thread/INFO]: xv15 lost connection: Disconnected
+[18:55:31] [Server thread/INFO]: xv15 left the game
+[18:55:33] [Server thread/INFO]: W0BA lost connection: Disconnected
+[18:55:33] [Server thread/INFO]: W0BA left the game
+[18:55:40] [User Authenticator #270/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[18:55:40] [Server thread/INFO]: W0BA[/73.229.216.76:63605] logged in with entity id 1167001 at (302.08746172685244, 65.0, -25.30000001192093)
+[18:55:40] [Server thread/INFO]: W0BA joined the game
+[18:55:44] [User Authenticator #271/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[18:55:45] [Server thread/INFO]: xv15[/192.168.86.1:1240] logged in with entity id 1167162 at (84.25983947303979, 64.8500000178814, 23.899676185100134)
+[18:55:45] [Server thread/INFO]: xv15 joined the game
+[18:57:45] [Server thread/INFO]: no4sho lost connection: Disconnected
+[18:57:45] [Server thread/INFO]: no4sho left the game
+[18:58:12] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.34744141446617505
+[18:59:19] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.3577860534078283
+[18:59:26] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4106482551159587
+[18:59:27] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4390812370310755
+[18:59:27] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4675085904503433
+[18:59:27] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4959343323711636
+[19:00:56] [Server thread/INFO]: MajikSix lost connection: Disconnected
+[19:00:56] [Server thread/INFO]: MajikSix left the game
+[19:01:42] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4013063406612005
+[19:01:43] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.42914012299316084
+[19:01:43] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.45678594561194785
+[19:01:43] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.48443423112429684
+[19:06:19] [Server thread/INFO]: W0BA lost connection: Disconnected
+[19:06:19] [Server thread/INFO]: W0BA left the game
+[19:07:09] [User Authenticator #272/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[19:07:10] [Server thread/INFO]: W0BA[/73.229.216.76:63807] logged in with entity id 1173027 at (337.97317573059223, 71.0, -67.48755874140754)
+[19:07:10] [Server thread/INFO]: W0BA joined the game
+[19:25:11] [Server thread/INFO]: xv15 was slain by Zombie
+[19:49:36] [Server thread/INFO]: W0BA lost connection: Disconnected
+[19:49:36] [Server thread/INFO]: W0BA left the game
+[19:52:48] [User Authenticator #273/INFO]: UUID of player W0BA is 0ed2798e-7c20-4fcc-9482-41f5c3bfed39
+[19:52:48] [Server thread/INFO]: W0BA[/73.229.216.76:56222] logged in with entity id 1194653 at (277.13556105054704, 63.0, -47.17110840069458)
+[19:52:48] [Server thread/INFO]: W0BA joined the game
+[20:14:20] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.2835642138150547
+[20:14:27] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.4027561489132694
+[20:14:27] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.43904461773097836
+[20:14:27] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.46973867560270577
+[20:14:28] [Server thread/WARN]: Wheat (vehicle of xv15) moved wrongly! 0.498807721762752
+[20:16:54] [Server thread/INFO]: W0BA lost connection: Disconnected
+[20:16:54] [Server thread/INFO]: W0BA left the game
+[20:25:21] [Server thread/INFO]: xv15 lost connection: Disconnected
+[20:25:21] [Server thread/INFO]: xv15 left the game
+[20:26:21] [Server thread/INFO]: Saving the game (this may take a moment!)
+[20:26:21] [Server thread/INFO]: Saved the game
+[20:28:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:28:50] [Server thread/INFO]: exit<--[HERE]
+[20:29:19] [User Authenticator #274/INFO]: UUID of player xv15 is dbaf5cf1-adee-4f44-ad48-a4d3f969486a
+[20:29:19] [Server thread/INFO]: xv15[/192.168.86.1:1175] logged in with entity id 1208802 at (25.819809629513994, 74.0, 35.12290747613395)
+[20:29:19] [Server thread/INFO]: xv15 joined the game
+[20:29:23] [Server thread/INFO]: xv15 lost connection: Disconnected
+[20:29:23] [Server thread/INFO]: xv15 left the game
